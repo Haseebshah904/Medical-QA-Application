@@ -1,0 +1,4 @@
+gradio
+requests
+fastapi
+uvicorn
