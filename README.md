@@ -61,8 +61,8 @@ The system is deployed on Hugging Face Spaces, allowing public access. To deploy
 + Push your project to the repository linked to the Hugging Face Space.
 + The deployment will automatically begin, and you can access the system via the provided Hugging Face URL.
 # Output
- ![Image Alt]([(https://github.com/Haseebshah904/Medical-QA-Application/blob/main/MedicalQA%20Output%201.PNG?raw=true)]).
- ![Image Alt]([image_url](https://github.com/Haseebshah904/Medical-QA-Application/blob/main/MedicalQA%20Output%201.PNG?raw=true)).
+ ![Image Alt](image_url)
+ ![Image Alt](image_url)
  # Usage
 + Access the System:
 + Visit the deployed Hugging Face Space.
